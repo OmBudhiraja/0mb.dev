@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+code {
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
+
+  font-size: 0.875em;
+  font-weight: bold;
+  background: rgba(124, 58, 237, 12%);
+  color: rgb(124, 58, 237);
+  border-radius: 4px;
+  padding: 0.3em 0.45em;
+}
