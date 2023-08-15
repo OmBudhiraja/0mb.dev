@@ -1,0 +1,21 @@
+{
+  "redirects": [
+    {
+      "source": "/github",
+      "destination": "https://github.com/ombudhiraja"
+    },
+
+    {
+      "source": "/linkedin",
+      "destination": "https://www.linkedin.com/in/om-budhiraja/"
+    },
+    {
+      "source": "/twitter",
+      "destination": "https://twitter.com/ombudhiraja"
+    },
+    {
+      "source": "/resume",
+      "destination": "https://drive.google.com/file/d/1E9iZ-JlExgYaMCgptDCAASWXc-lgDpWw/view?usp=sharing"
+    }
+  ]
+}
